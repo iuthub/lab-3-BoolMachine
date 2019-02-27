@@ -1,16 +1,21 @@
 body{
     background-image: url("images/background.gif");
 }
+
 .bod{
     border: 10px solid white;
     background-color: white;
     margin-left: 10%;
     margin-right: 10%;
+    overflow: hidden;
 }
 .vik{
     
     text-align: right;
     background-color: #A8F0F0
+}
+.vik:hover{
+    background-color: #30ceff;
 }
 .text1{
 
@@ -23,6 +28,11 @@ body{
     margin-top: 10px;
     background-color: #E8FBFB;
     overflow: hidden;
+    width: 70%;
+    float:right;
+}
+.spat:hover{
+    background-color: #30ceff;
 }
 .date{
     border-bottom: 2px dashed blue;
@@ -33,6 +43,11 @@ body{
     margin-top: 10px;
     background-color: #E8FBFB;
     overflow: hidden;
+    width: 70%;
+    float: right;
+}
+.form2:hover{
+    background-color: #30ceff;
 }
 .date2{
     border-bottom: 2px dashed blue;
@@ -42,3 +57,15 @@ img{
     clear: both;
 }
 
+
+.friend{
+    border: 5px solid #009097;
+    float: left;
+    width: 23%;
+    margin-top: 10px;
+    background-color: #99e0e0;
+    padding: 5px;
+}
+.friend:hover{
+    background-color: #30ceff;
+}
