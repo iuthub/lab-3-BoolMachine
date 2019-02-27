@@ -1,0 +1,44 @@
+body{
+    background-image: url("images/background.gif");
+}
+.bod{
+    border: 10px solid white;
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.vik{
+    
+    text-align: right;
+    background-color: #A8F0F0
+}
+.text1{
+
+    size: 14pt
+}
+
+.spat{
+    border: 4px solid #C2E9E9;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #E8FBFB;
+    overflow: hidden;
+}
+.date{
+    border-bottom: 2px dashed blue;
+}
+.form2{
+    border: 4px solid #C2E9E9;
+    padding: 5px;
+    margin-top: 10px;
+    background-color: #E8FBFB;
+    overflow: hidden;
+}
+.date2{
+    border-bottom: 2px dashed blue;
+}
+img{
+    float: right;
+    clear: both;
+}
+
